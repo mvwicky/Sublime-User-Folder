@@ -1,0 +1,5 @@
+{
+    "cmd": ["black", "--skip-string-normalization", "--line-length", "79", "$file"],
+    "selector": "source.python",
+    "file_patterns": ["*.py"]
+}

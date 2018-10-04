@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$ref: '#/components/${1:schemas}/${2:PlaceholderSchema}']]></content>
+	<tabTrigger>ref</tabTrigger>
+	<description>Reference Object</description>
+	<scope>source.yaml</scope>
+</snippet>

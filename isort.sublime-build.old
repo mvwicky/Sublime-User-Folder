@@ -1,0 +1,5 @@
+{
+    "cmd": ["isort", "$file"],
+    "selector": "source.python",
+    "file_patterns": ["*.py"]
+}

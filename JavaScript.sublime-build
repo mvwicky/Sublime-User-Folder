@@ -1,0 +1,8 @@
+{
+    "cmd": ["node", "$file"],
+    "selector": "source.js",
+    "file_patterns": ["*.js"],
+    "windows": {
+        "shell": true
+    }
+}

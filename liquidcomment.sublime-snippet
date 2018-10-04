@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{% comment %}$1{% endcomment %}]]></content>
+	<tabTrigger>%com</tabTrigger>
+	<description>liquid comment</description>
+	<scope>text.html.basic.liquid,text.html.markdown.liquid</scope>
+</snippet>

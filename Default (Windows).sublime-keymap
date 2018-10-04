@@ -1,0 +1,53 @@
+[
+    { "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
+    { "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
+
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    {
+        "keys": ["alt+shift+a"],
+        "command": "align_tab",
+        "args": { "user_input": "(?<!\\\\)&|\\\\\\\\" },
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "text.tex.latex"
+            }
+        ]
+    },
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+    { "keys": ["alt+shift+o"], "command": "prompt_open_project_or_workspace" },
+    { "keys": ["ctrl+alt+s"], "command": "save_all" },
+    { "keys": ["ctrl+f10"], "command": "cancel_build" },
+    {
+        "keys": ["ctrl+l", "ctrl+n"],
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "text.html"
+            }
+        ],
+        "command": "insert_snippet",
+        "args": { "name": "Packages/XML/Snippets/long-tag.sublime-snippet" }
+    },
+    {
+        "keys": ["ctrl+f1"],
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.python"
+            }
+        ],
+        "command": "build",
+        "args": {
+            "build_system": "Packages/User/PyFmt.sublime-build",
+            "choice_build_system": true,
+            "choice_variant": true,
+            "variant": ""
+        }
+    },
+    { "keys": ["ctrl+f7"], "command": "save"}
+]

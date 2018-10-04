@@ -1,0 +1,11 @@
+{
+    "cmd": ["pandoc", "-o", "$file_path/$file_base_name.pdf", "$file"],
+    "file_patterns": ["*.md"],
+    "selector": "source.markdown",
+    "variants": [
+        {
+            "name": "Lualatex",
+            "cmd": ["pandoc", "-o", "$file_path/$file_base_name.pdf", "--pdf-engine=lualatex", "$file"]
+        }
+    ]
+}

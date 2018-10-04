@@ -1,0 +1,10 @@
+/*
+isort $file
+while --skip-string-normalization --line-length 79 $file
+*/
+
+{
+    "cmd": ["format_python.bat", "$file"],
+    "selector": "source.python",
+    "file_patterns": ["*.py"]
+}

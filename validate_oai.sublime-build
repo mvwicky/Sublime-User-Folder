@@ -1,0 +1,5 @@
+{
+    // "cmd": ["swagger-cli", "validate", "$file"],
+    "cmd": ["dir"],
+    "selector": "source.yaml"
+}

@@ -1,0 +1,20 @@
+{
+	"extensions":
+	[
+		"html"
+	],
+    "caret_extra_width": 1,
+    "caret_style": "solid",
+    /*"color_scheme": "Packages/DA CS/Oceanic Next.tmTheme",*/
+    "color_scheme": "Packages/Color Scheme - Pastels UI/Pastels UI.tmTheme",
+    "font_face": "IBM Plex Mono",
+    "highlight_line": true,
+    "line_numbers": true,
+    "rulers":
+    [
+        160
+    ],
+    "spell_check": true,
+    "wrap_width": 160,
+    "draw_centered": true
+}

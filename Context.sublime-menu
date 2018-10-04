@@ -1,0 +1,13 @@
+[
+{
+    "caption": "Python Format",
+    "mnemonic": "F",
+    "command": "build",
+    "args":
+    {
+        "build_system": "Packages/User/PyFmt.sublime-build",
+        "choice_build_system": true,
+        "choice_variant": true,
+        "variant": ""
+    }
+}]

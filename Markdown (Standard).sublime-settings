@@ -1,0 +1,10 @@
+{
+    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+    "wrap_width": 130,
+    "rulers": [130],
+    "line_numbers": true,
+    "highlight_line": true,
+    "caret_style": "solid",
+    "caret_extra_width": 1,
+    "spell_check": true
+}

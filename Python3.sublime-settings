@@ -1,0 +1,14 @@
+{
+	"extensions":
+	[
+	],
+	"ignored_packages":
+	[
+		"Color Highlighter"
+	],
+	"rulers":
+	[
+		79,
+		100
+	]
+}

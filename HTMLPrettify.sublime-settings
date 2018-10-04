@@ -1,0 +1,43 @@
+{
+    "node_path":
+    {
+        "windows": "C:/Users/mvanwickle/scoop/apps/nodejs/10.10.0/node.exe"
+    },
+    "global_file_rules":
+    {
+        "html":
+        {
+            "allowed_file_extensions": []
+        },
+        "css":
+        {
+            "allowed_file_extensions": ["css", "scss", "sass", "less"],
+            "allowed_file_syntaxes": ["css", "sass", "less"],
+            "disallowed_file_patterns": []
+        },
+        "js":
+        {
+            "allowed_file_extensions": ["js"],
+            "allowed_file_syntaxes": ["javascript", "ecma"],
+            "disallowed_file_patterns": []
+        },
+        "json":
+        {
+            "allowed_file_extensions": [
+                "json",
+                "babelrc",
+                "eslintrc",
+                "jshintrc",
+                "jsbeautifyrc",
+                "sublime-project",
+                "sublime-settings",
+                "sublime-keymap",
+                "sublime-commands",
+                "sublime-menu"
+            ],
+            "allowed_file_syntaxes": ["json"],
+            "disallowed_file_patterns": []
+        }
+    }
+
+}

@@ -1,0 +1,18 @@
+{
+	"caret_extra_width": 1,
+	"caret_style": "solid",
+	"color_scheme": "Packages/DA CS/Espresso Libre.tmTheme",
+	"extensions":
+	[
+		"md"
+	],
+	"font_face": "Hack",
+	"highlight_line": true,
+	"line_numbers": true,
+	"rulers":
+	[
+		140
+	],
+	"spell_check": true,
+	"wrap_width": 140
+}

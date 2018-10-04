@@ -1,0 +1,11 @@
+// These settings override both User and Default settings for the LaTeX syntax
+{
+    "rulers": [],
+    "spell_check": true,
+    "dictionary": "Packages/Language - English/en_US.dic",
+    "tab_size": 4,
+    "detect_indentation": false,
+    "wrap_width": 160,
+    "rulers": [160],
+    "draw_centered": true
+}

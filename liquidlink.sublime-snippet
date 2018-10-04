@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{% include link.html title="${1:Title}" link="${2:Link}" author="${3:Author}" %}]]></content>
+	<tabTrigger>%link</tabTrigger>
+	<description>liquid include link.html</description>
+	<scope>text.html.basic.liquid,text.html.markdown.liquid</scope>
+</snippet>

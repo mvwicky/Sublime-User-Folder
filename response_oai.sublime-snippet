@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[content:
+  application/json:
+    schema:]]></content>
+	<tabTrigger>json</tabTrigger>
+	<!-- <description>Optionally, insert a description here</description> -->
+	<scope>source.yaml</scope>
+</snippet>

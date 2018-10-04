@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[${1:get}:
+  operationId: ${2:operationId}
+  summary: ''
+  responses:
+    '200':
+      description: ${3:'Description'}]]></content>
+	<tabTrigger>verb</tabTrigger>
+	<description>API Operation</description>
+	<scope>source.yaml</scope>
+</snippet>

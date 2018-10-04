@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"c",
+		"h",
+		"h"
+	],
+    "trim_automatic_white_space": true,
+}

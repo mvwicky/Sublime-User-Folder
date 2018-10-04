@@ -1,0 +1,7 @@
+{
+    "config": {
+        "leading-zero": true,
+        "space-before-opening-brace": " ",
+        "color-shorthand": false
+    }
+}

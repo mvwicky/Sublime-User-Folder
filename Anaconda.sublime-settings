@@ -1,0 +1,7 @@
+{
+    "anaconda_linting_behaviour": "save_only",
+    "anaconda_linter_mark_style": "solid_underline",
+    "use_pylint": false,
+    "swallow_startup_errors": true,
+    "python_interpreter": "C:\\Users\\mvanwickle\\Miniconda3\\python.exe"
+}

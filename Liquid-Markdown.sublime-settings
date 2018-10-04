@@ -1,0 +1,20 @@
+{
+	"caret_extra_width": 1,
+	"caret_style": "solid",
+	// "color_scheme": "Packages/Color Scheme - Pastels UI/Pastels UI.tmTheme",
+	// "draw_centered": true,
+	"extensions":
+	[
+		"markdown"
+	],
+	"font_face": "Hack",
+	"highlight_line": true,
+	"line_numbers": true,
+	"rulers":
+	[
+		140
+	],
+	"spell_check": true,
+	"wrap_width": 140,
+	"word_wrap": true
+}

@@ -1,0 +1,17 @@
+{
+	"extensions":
+	[
+		"py"
+	],
+	"ignored_packages":
+	[
+		"Color Highlighter"
+	],
+	"rulers":
+	[
+		79,
+		100
+	],
+	"ensure_newline_at_eof_on_save": true,
+	"save_on_focus_lost": false
+}

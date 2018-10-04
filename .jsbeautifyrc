@@ -1,0 +1,17 @@
+{
+        // Simply using `node` without specifying a path sometimes doesn't work :(
+    // https://github.com/victorporof/Sublime-HTMLPrettify#oh-noez-command-not-found
+    // http://nodejs.org/#download
+  "node_path":
+  {
+    "windows": "F:/Users/mvanwickle/scoop/apps/nodejs/current/node.exe",
+    "linux": "/usr/bin/nodejs",
+    "osx": "/usr/local/bin/node"
+  },
+  "all":
+  {
+    "end_with_newline": true,
+    "indent_size": 2,
+    "preserve_newlines": true
+  }
+}
